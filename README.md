@@ -18,9 +18,7 @@ I’m a **Software & Hardware Design Ph.D. Student** specializing in digital cir
 
 ## 🛠️ Projects
 
-- [Project Name 1](link) – Brief description of your RISC-V core analysis/simulation project.
-- [Project Name 2](link) – Highlight key tech skills, team achievements, or project outcomes.
-- [Project Name 3](link) – Include a personal or open-source contribution with clear results.
+- [VCO Circuit design](https://github.com/nimakolahi/lelo_vco_sky130a) – A simple project to design and simulate a current-starving VCO implemented in Skywater 130nm integration technology.
 
 ## 📈 Stats
 
@@ -29,7 +27,7 @@ I’m a **Software & Hardware Design Ph.D. Student** specializing in digital cir
 ## 🤝 Connect with Me
 
 - 📨 **Email:** [nimakolahi@gmail.com]
-- 💼 **LinkedIn:** [linkedin.com/in/nima-kolahi-mahmoudi-2ba698132/]
+- 💼 **LinkedIn:** [(linkedin.com/in/nima-kolahi-mahmoudi-2ba698132/)]
 - 🌐 **Website/Portfolio:** [(https://www.polito.it/en/staff?p=nima.kolahimahmoudi)]
 
 ---
