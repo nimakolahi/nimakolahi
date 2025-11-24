@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I’m a **Software & Hardware Design Ph.D. Student** specializing in digital circuit design, hardware testing, and RISC-V architecture. Passionate about building robust systems and optimizing workflows in both software and silicon. Based in Torino, Italy.
+I’m a **Ph.D. Student from Polytechnic of Turin in Software & Hardware Design** specializing in digital circuit design, hardware testing, and RISC-V architecture. Passionate about building robust systems and optimizing workflows in both software and silicon. Based in Torino, Italy.
 
 - 🏢 **Profession:** VLSI Design & Test Specialist
 - 💻 **Expertise:** Digital Logic, EDA Tools (Synopsys, Cadence), Python, Verilog, SystemVerilog, Bash
@@ -28,7 +28,7 @@ I’m a **Software & Hardware Design Ph.D. Student** specializing in digital cir
 
 - 📨 **Email:** [nimakolahi@gmail.com]
 - 💼 **LinkedIn:** [My LinkedIn Profile](linkedin.com/in/nima-kolahi-mahmoudi-2ba698132/)
-- 🌐 **Website/Portfolio:** [(https://www.polito.it/en/staff?p=nima.kolahimahmoudi)]
+- 🌐 **Website/Portfolio:** [My PoliTo Webpage](https://www.polito.it/en/staff?p=nima.kolahimahmoudi)
 
 ---
 
