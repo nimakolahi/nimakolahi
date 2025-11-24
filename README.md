@@ -27,7 +27,7 @@ I’m a **Software & Hardware Design Ph.D. Student** specializing in digital cir
 ## 🤝 Connect with Me
 
 - 📨 **Email:** [nimakolahi@gmail.com]
-- 💼 **LinkedIn:** [(linkedin.com/in/nima-kolahi-mahmoudi-2ba698132/)]
+- 💼 **LinkedIn:** [My LinkedIn Profile](linkedin.com/in/nima-kolahi-mahmoudi-2ba698132/)
 - 🌐 **Website/Portfolio:** [(https://www.polito.it/en/staff?p=nima.kolahimahmoudi)]
 
 ---
