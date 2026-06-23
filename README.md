@@ -22,7 +22,7 @@ I’m a **Ph.D. Student from Polytechnic of Turin in Software & Hardware Design*
 
 ## 📈 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<yourusername>&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<nimakolahi>&show_icons=true&theme=tokyonight)
 
 ## 🤝 Connect with Me
 
